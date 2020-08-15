@@ -15,5 +15,13 @@ vaultPath = os.path.expanduser("~") + "/Library/Mobile Documents/com~apple~Cloud
 # Alfred Text Expansions
 In order to get access to this feature, you will need to buy the [Alfred Powerpack](https://www.alfredapp.com/powerpack/).
 
-If you aren't using Alfred, here's a picture of my text expansions:
+If you aren't using Alfred, here's a picture of the majority of my text expansions:
 
+![Text Expansions](/alfred-text-expansions-pic.png)
+
+Here are the final two:
+
+| Name      | Keyword | Snippet |
+| ----------- | ----------- | ----------- |
+| Base Recurring Intention or Misc Task      | -base       | ♦︎       |
+| Changed Plans   | -change        | 🚨        |
