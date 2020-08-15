@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "8372c47cbf380f7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ae14a7e4d4a5b8b",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b43aa1a8217d9281",
+    "type": "split",
+    "children": [
+      {
+        "id": "63dc11cac50e2105",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "678999eac4a767e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e87ddde3f1b80431",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ba37baea00e7059",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4dcc17ba44aaf5bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f49d36615e5f3ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2aa06408e65a9839",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          },
+          {
+            "id": "75e4fcff19727862",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4385f41a26535891",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "README.md",
+    "2020-08-13.md",
+    "Daily Notes Template.md",
+    "React - Notable Packages.md",
+    "🗙 Your First Intention.md"
+  ]
+}

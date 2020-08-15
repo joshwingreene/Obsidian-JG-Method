@@ -1,0 +1,22 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "file-explorer": true,
+    "global-search": true,
+    "switcher": true,
+    "graph": true,
+    "backlink": true,
+    "command-palette": true,
+    "markdown-importer": true,
+    "word-count": false,
+    "daily-notes": true,
+    "outline": true,
+    "starred": true,
+    "tag-pane": true,
+    "custom-css": true
+  },
+  "readableLineLength": false,
+  "spellcheck": true,
+  "attachmentFolderPath": "Attachments",
+  "alwaysUpdateLinks": true
+}
