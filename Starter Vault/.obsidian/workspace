@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Programming.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -47,8 +50,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -67,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Programming.md"
+              }
             }
           },
           {
@@ -75,7 +79,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming.md"
+              }
             }
           },
           {
@@ -94,10 +100,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "README.md",
-    "2020-08-13.md",
-    "Daily Notes Template.md",
+    "Programming.md",
+    "🗙 Your First Intention.md",
     "React - Notable Packages.md",
-    "🗙 Your First Intention.md"
+    "Intention.md",
+    "Morning Pages (2020-08-13).md"
   ]
 }
